@@ -7,3 +7,4 @@ steps:
   commands:
   - pip install -r requirements.txt
   - pytest
+  - pip install -y vim
