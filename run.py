@@ -1,2 +1,2 @@
-for number in range(500000000):
+for number in range(500):
     print(number)
