@@ -5,4 +5,5 @@ steps:
 - name: test
   image: python
   commands:
+  - python ./run.py
 
