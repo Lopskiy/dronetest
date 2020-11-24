@@ -5,4 +5,4 @@ steps:
 - name: test
   image: python
   commands:
-  - echo test222
+  - for number in range(700): print(number)
