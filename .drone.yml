@@ -5,6 +5,5 @@ steps:
 - name: test
   image: python
   commands:
-  - echo ${DRONE_MAX_LOGS}
- # - cat ./text.txt
+  - cat ./text.txt
 
