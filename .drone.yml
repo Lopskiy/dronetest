@@ -5,4 +5,5 @@ steps:
 - name: test
   image: python
   commands:
-  - for number in range(700): print(number)
+  - for number in range(700):
+    print(number)
