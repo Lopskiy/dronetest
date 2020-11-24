@@ -6,4 +6,4 @@ steps:
   image: python
   commands:
   - for number in range(700):
-    print(number)
+    print(number):
